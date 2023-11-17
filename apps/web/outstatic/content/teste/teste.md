@@ -1,6 +1,6 @@
 ---
 title: 'teste'
-status: 'draft'
+status: 'published'
 author:
   name: 'mikaelmeira'
   picture: 'https://avatars.githubusercontent.com/u/116334877?v=4'
